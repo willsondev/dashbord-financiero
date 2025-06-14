@@ -2,6 +2,9 @@
 
 Este proyecto es una aplicación web interactiva desarrollada con Vue.js 3 que presenta un dashboard para visualizar datos de instrumentos financieros. La aplicación permite a los usuarios ver una lista de acciones, seleccionar una de ellas y visualizar información detallada, incluyendo un resumen, detalles de cotización y un gráfico histórico de su rendimiento.
 
+## DEMO LIVE 
+https://dashboard-financiero.netlify.app/
+
 ## Características Principales
 
 - **Interfaz Reactiva:** Construida como una Single Page Application (SPA) utilizando Vue 3 y Composition API.
